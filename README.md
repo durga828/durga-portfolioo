@@ -1,1 +1,5 @@
-# durga-portfolioo![user8](https://github.com/user-attachments/assets/d6bee347-64b5-4f62-b134-3306d0cfb5f7)
+This is Resume Using HTML AND CSS
+
+
+
+![user8](https://github.com/user-attachments/assets/a26eba46-eb78-493c-a625-7c99882fea12)
